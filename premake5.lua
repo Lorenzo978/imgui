@@ -36,5 +36,3 @@ project "ImGui"
 	filter "configurations:Release"
 		runtime "Release"
 		optimize "on"
-Footer
-© 2022 GitHub, Inc.
